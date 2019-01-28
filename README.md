@@ -1,4 +1,6 @@
 # cv
-This repository contains latex scripts generating my CV.
+This repository contains the latex scripts for my CV.
 
-Please click ***CV-Dechao-Tian.pdf*** to view the content.
+***CV-Dechao-Tian.pdf***: my latest CV.
+
+***CV-Dechao-Tian.tex***: tex scripts for my latest CV.
